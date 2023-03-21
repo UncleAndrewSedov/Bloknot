@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp4.Windows.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4.Windows"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="77,74,0,0" TextWrapping="Wrap" FontSize="20" Text="Версия 0.0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="77,47,0,0" TextWrapping="Wrap" FontSize="20" Text="Блокнот" VerticalAlignment="Top" RenderTransformOrigin="-3.684,0.419"/>
+        <TextBlock HorizontalAlignment="Left" Margin="77,106,0,0" TextWrapping="Wrap" FontSize="20" Text="Дата производства - 26.05.2025" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="77,138,0,0" TextWrapping="Wrap" FontSize="20" Text="Email - andrejsedov58@gmail.com" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="77,170,0,0" TextWrapping="Wrap" FontSize="20" Text="Разработчик - Uncle_Sed" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
